@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/gempir/go-twitch-irc/v2"
+	"github.com/gempir/go-twitch-irc/v3"
 	"os"
 	"os/signal"
 )
