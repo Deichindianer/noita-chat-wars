@@ -1,1 +1,4 @@
 .idea
+.envrc
+.direnv
+result
